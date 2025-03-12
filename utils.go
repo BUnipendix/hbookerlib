@@ -1,7 +1,7 @@
 package hbookerLib
 
 import (
-	"github.com/AlexiaVeronica/hbookerLib/hbookermodel"
+	"github.com/BUnipendix/hbookerlib/hbookermodel"
 )
 
 const (

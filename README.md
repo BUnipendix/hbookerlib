@@ -7,7 +7,7 @@ The `HbookerLib` package provides a client library for interacting with the Hboo
 To install the `HbookerLib` package, use the following command:
 
 ```shell
-go get github.com/AlexiaVeronica/hbookerLib
+go get github.com/BUnipendix/hbookerlib
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ go get github.com/AlexiaVeronica/hbookerLib
 Import the `HbookerLib` package in your Go code:
 
 ```go
-import "github.com/AlexiaVeronica/hbookerLib"
+import "github.com/BUnipendix/hbookerlib"
 ```
 
 Create a new client by calling the `NewClient` function:
@@ -74,4 +74,4 @@ The `HbookerLib` package provides the following methods:
 
 ## License
 
-This package is licensed under the [MIT License](https://github.com/AlexiaVeronica/hbookerLib/licenses/MIT).
+This package is licensed under the [MIT License](https://github.com/BUnipendix/hbookerlib/licenses/MIT).

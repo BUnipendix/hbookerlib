@@ -1,4 +1,4 @@
-module github.com/AlexiaVeronica/hbookerLib
+module github.com/BUnipendix/hbookerlib
 
 go 1.22.0
 

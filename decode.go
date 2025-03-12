@@ -14,7 +14,7 @@ import (
 	"encoding/pem"
 	"errors"
 	"fmt"
-	"github.com/AlexiaVeronica/hbookerLib/hbookermodel"
+	"github.com/BUnipendix/hbookerlib/hbookermodel"
 	"log"
 	"os"
 )

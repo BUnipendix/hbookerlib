@@ -2,7 +2,7 @@ package hbookerLib
 
 import (
 	"fmt"
-	"github.com/AlexiaVeronica/hbookerLib/hbookermodel"
+	"github.com/BUnipendix/hbookerlib/hbookermodel"
 	"github.com/AlexiaVeronica/input"
 	"sync"
 )
